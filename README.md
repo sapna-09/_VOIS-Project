@@ -7,8 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/76240391/187831352-068bef4d-e1f4-43db-b952-c579bfbb3b5a.png)
 
-**SgnatureVerification.ipynb -** is used to verify the signature of the user and match it with the database to declare if the signature is forged or real. Given file is trained 
-with 12 people signature. They signature is present in form of AAABBB_CCC. This is for our reference.<br />
+**SgnatureVerification.ipynb -** is used to verify the signature of the user and match it with the database to declare if the signature is forged or real. Given file is trained with 12 people signature. Signature are present in format of AAABBB_CCC. This is for our reference.<br />
 AAA - Denotes the person who has signed the document.<br />
 BBB - Denotes the person to whom the signature actually belong to.<br />
 CCC - Denotes the number of attempts<br />
